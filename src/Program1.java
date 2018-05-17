@@ -7,5 +7,6 @@ class Program1 {
         System.out.println("commitowania");
         System.out.println("Basia zrobiła 23 gołąbki");
         System.out.println("i od dwóch dni je jem");
+        System.out.println("ale...są pyszne!");
     }
 }
