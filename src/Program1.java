@@ -5,5 +5,6 @@ class Program1 {
         System.out.println("programowania");
         System.out.println("i");
         System.out.println("commitowania");
+        System.out.println("Basia zrobiła 23 gołąbki");
     }
 }
